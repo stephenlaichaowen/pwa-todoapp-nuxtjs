@@ -1,0 +1,24 @@
+{
+  "name": "awesome-todo-list",
+  "version": "1.0.0",
+  "description": "My awesome Nuxt.js project",
+  "author": "stephenlai",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate",
+    "remote": "git remote add origin https://github.com/stephenlaichaowen/pwa-todoapp-nuxtjs.git",
+    "github": "git add . && git commit -m 'commit' && git push origin master"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.2.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "gh-pages": "^3.1.0",
+    "prettier": "^1.19.1",
+    "push-dir": "^0.4.1"
+  }
+}
