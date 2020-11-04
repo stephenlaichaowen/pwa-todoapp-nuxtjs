@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.netlify.pwa_todoapp_nuxtjs.twa",
+                   "sha256_cert_fingerprints": ["CD:38:AF:C6:27:E8:5E:84:3A:C2:9E:F7:30:7B:6E:DE:66:57:09:9C:9C:0F:EA:B6:99:0F:80:83:16:23:C0:A6"] }
+    }]
