@@ -1,10 +1,10 @@
 Keep your this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
 
 Key store file: signing.keystore
-Key store password: 2BfyiJEiA4Mn
+Key store password: mN8KrElz0ocg
 Key alias: my-key-alias
-Key password: r16Ehb7VEKmK
-Signer's full name: cool-todo-list Admin
+Key password: 7Udg5o4GjDUt
+Signer's full name: awesome-todo-list Admin
 Signer's organization: My Awesome Todo List App
 Signer's organizational unit: Engineering
 Signer's country code: US
